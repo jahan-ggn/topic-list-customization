@@ -1,0 +1,6 @@
+en:
+  theme_metadata:
+    description: A Discourse theme component that adds a sortable "Created" column
+      to the topic list and removes the "Views" column.
+    settings:
+      example_setting: A description of a setting.
